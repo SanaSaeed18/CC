@@ -1,0 +1,10 @@
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\bin\Debug\Lab3_task2.exe.config
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\bin\Debug\Lab3_task2.exe
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\bin\Debug\Lab3_task2.pdb
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.csproj.AssemblyReference.cache
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.Form1.resources
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.Properties.Resources.resources
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.csproj.GenerateResource.cache
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.csproj.CoreCompileInputs.cache
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.exe
+F:\semester_7\CC\Lab\Lab3_task2\Lab3_task2\obj\Debug\Lab3_task2.pdb

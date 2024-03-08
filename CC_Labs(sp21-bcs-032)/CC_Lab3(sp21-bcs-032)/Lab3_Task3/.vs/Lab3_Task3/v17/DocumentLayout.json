@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\semester_7\\CC\\Lab\\Lab3_Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7D34BF-6443-47EB-8F37-5029F793A03C}|Lab3_Task3\\Lab3_Task3.csproj|f:\\semester_7\\cc\\lab\\lab3_task3\\lab3_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7D34BF-6443-47EB-8F37-5029F793A03C}|Lab3_Task3\\Lab3_Task3.csproj|solutionrelative:lab3_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7D34BF-6443-47EB-8F37-5029F793A03C}|Lab3_Task3\\Lab3_Task3.csproj|f:\\semester_7\\cc\\lab\\lab3_task3\\lab3_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7D34BF-6443-47EB-8F37-5029F793A03C}|Lab3_Task3\\Lab3_Task3.csproj|solutionrelative:lab3_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\semester_7\\CC\\Lab\\Lab3_Task3\\Lab3_Task3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_Task3\\Form1.cs",
+              "ToolTip": "F:\\semester_7\\CC\\Lab\\Lab3_Task3\\Lab3_Task3\\Form1.cs",
+              "RelativeToolTip": "Lab3_Task3\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:31:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\semester_7\\CC\\Lab\\Lab3_Task3\\Lab3_Task3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_Task3\\Form1.cs",
+              "ToolTip": "F:\\semester_7\\CC\\Lab\\Lab3_Task3\\Lab3_Task3\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab3_Task3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:09:40.227Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|f:\\semester_7\\cc\\lab\\lab3_task2\\lab3_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|solutionrelative:lab3_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|solutionrelative:Lab3_task2\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|f:\\semester_7\\cc\\lab\\lab3_task2\\lab3_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C0E3E6F-4FC6-408F-AD08-9075C570679C}|Lab3_task2\\Lab3_task2.csproj|solutionrelative:lab3_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_task2\\Form1.cs",
+              "ToolTip": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab3_task2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T23:13:34.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_task2\\Form1.Designer.cs",
+              "ToolTip": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab3_task2\\Form1.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T23:05:52.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_task2\\Form1.cs",
+              "ToolTip": "F:\\semester_7\\CC\\Lab\\Lab3_task2\\Lab3_task2\\Form1.cs",
+              "RelativeToolTip": "Lab3_task2\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA0wCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:58:44.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
