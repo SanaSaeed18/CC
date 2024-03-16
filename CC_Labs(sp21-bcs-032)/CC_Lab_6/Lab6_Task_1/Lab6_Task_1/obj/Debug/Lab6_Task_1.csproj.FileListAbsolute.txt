@@ -1,0 +1,10 @@
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\bin\Debug\Lab6_Task_1.exe.config
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\bin\Debug\Lab6_Task_1.exe
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\bin\Debug\Lab6_Task_1.pdb
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.csproj.AssemblyReference.cache
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.Form1.resources
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.Properties.Resources.resources
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.csproj.GenerateResource.cache
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.csproj.CoreCompileInputs.cache
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.exe
+F:\semester_7\CC\Lab\Lab6_Task_1\Lab6_Task_1\obj\Debug\Lab6_Task_1.pdb
