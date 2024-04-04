@@ -1,0 +1,7 @@
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\bin\Debug\Lab7_Task_1.exe.config
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\bin\Debug\Lab7_Task_1.exe
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\bin\Debug\Lab7_Task_1.pdb
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\obj\Debug\Lab7_Task_1.csproj.AssemblyReference.cache
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\obj\Debug\Lab7_Task_1.csproj.CoreCompileInputs.cache
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\obj\Debug\Lab7_Task_1.exe
+F:\semester_7\CC\Lab\Lab7_Task_1\Lab7_Task_1\obj\Debug\Lab7_Task_1.pdb
