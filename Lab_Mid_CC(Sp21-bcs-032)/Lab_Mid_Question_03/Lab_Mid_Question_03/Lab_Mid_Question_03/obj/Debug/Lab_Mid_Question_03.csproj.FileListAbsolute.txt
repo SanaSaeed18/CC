@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\bin\Debug\Lab_Mid_Question_03.exe.config
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\bin\Debug\Lab_Mid_Question_03.exe
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\bin\Debug\Lab_Mid_Question_03.pdb
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.Form1.resources
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.Properties.Resources.resources
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.exe
+C:\Users\HP\Downloads\Lab_Mid(Q3)\Lab_Mid_Question_03\Lab_Mid_Question_03\obj\Debug\Lab_Mid_Question_03.pdb
