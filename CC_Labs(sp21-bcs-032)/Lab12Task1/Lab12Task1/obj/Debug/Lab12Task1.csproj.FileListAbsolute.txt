@@ -1,0 +1,7 @@
+F:\semester_7\CC\Lab12Task1\Lab12Task1\obj\Debug\Lab12Task1.csproj.AssemblyReference.cache
+F:\semester_7\CC\Lab12Task1\Lab12Task1\obj\Debug\Lab12Task1.csproj.CoreCompileInputs.cache
+F:\semester_7\CC\Lab12Task1\Lab12Task1\bin\Debug\Lab12Task1.exe.config
+F:\semester_7\CC\Lab12Task1\Lab12Task1\bin\Debug\Lab12Task1.exe
+F:\semester_7\CC\Lab12Task1\Lab12Task1\bin\Debug\Lab12Task1.pdb
+F:\semester_7\CC\Lab12Task1\Lab12Task1\obj\Debug\Lab12Task1.exe
+F:\semester_7\CC\Lab12Task1\Lab12Task1\obj\Debug\Lab12Task1.pdb
